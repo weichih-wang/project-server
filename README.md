@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Setup:
+First install Ruby on Rails 5+
+Install libmagic (brew install libmagic)
+Install imagemagick (brew install imagemagick)
 
-Things you may want to cover:
+Run bundle install
+Run rails server.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The apis will be hosted on localhost:3000.
