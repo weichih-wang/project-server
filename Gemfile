@@ -45,4 +45,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "ruby-filemagic", "~> 0.7.2"
-gem "image_processing", "~> 1.0"
+gem "image_processing", "~> 1.12"
